@@ -44,6 +44,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 
 <br />
 Thanks for visiting!! 💞️✌️
+<br />
 
 <!--
 <a href=https://github-readme-stats.vercel.app">
@@ -62,6 +63,6 @@ Thanks for visiting!! 💞️✌️
 <a href="https://www.linkedin.com/in/supali-ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="supali-ojha" height="30" width="30" /></a>
 <a href="https://www.facebook.com/chaiti.ojha.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supali.ojha.18" height="30" width="30" /></a>
 <a href="https://instagram.com/chaiti_ojha?igshid=1b7pc06ef1s5d.vg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="supalis_world.vg" height="30" width="30" /></a>
-<a href="https://youtube.com/channel/UCoTAZV2w03h6zp1ZW3Iuwbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="asima ojha.vg" height="30" width="30" /></a>
+<a href="https://youtube.com/channel/UCoTAZV2w03h6zp1ZW3Iuwbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asima ojha.vg" height="30" width="30" /></a>
 </a>
 </p>
