@@ -14,7 +14,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - ✨ I’m currently learning about Digital Marketing.
 - 💬 Ask me about anything, I'll be glad to help.
 
-<p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/coder2.png" alt="codergif" /> </p>
+<p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/tumblr_3c363bcd2f52dd4f49ab812e5e6ed96f_8a9c3807_500.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
