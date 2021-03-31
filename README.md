@@ -1,14 +1,3 @@
-<!---
-- 👋 Hi, I’m Asima Ojha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-AsimaOjha/AsimaOjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/hi-icegif-2.gif" alt="hello" /> </p>
 <h1 align="center">Hi, I'm Asima Ojha👋</h1>
 
@@ -25,7 +14,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - ✨ I’m currently learning about Digital Marketing.
 - 💬 Ask me about anything, I'll be glad to help.
 
-<p align="center"> <img src="https://github.com/SupaliOjha/SupaliOjha/blob/main/asset/coder.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/unnamed.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
@@ -61,8 +50,8 @@ Thanks for visiting!! 💞️✌️
 
 <p align="center">
 <a href="https://www.linkedin.com/in/supali-ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="supali-ojha" height="30" width="30" /></a>
-<a href="https://www.facebook.com/chaiti.ojha.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supali.ojha.18" height="30" width="30" /></a>
-<a href="https://instagram.com/chaiti_ojha?igshid=1b7pc06ef1s5d.vg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="supalis_world.vg" height="30" width="30" /></a>
+<a href="https://www.facebook.com/chaiti.ojha.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chaiti.ojha.5" height="30" width="30" /></a>
+<a href="https://instagram.com/chaiti_ojha?igshid=1b7pc06ef1s5d.vg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chaiti_ojha.vg" height="30" width="30" /></a>
 <a href="https://youtube.com/channel/UCoTAZV2w03h6zp1ZW3Iuwbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asima ojha.vg" height="30" width="30" /></a>
 </a>
 </p>
