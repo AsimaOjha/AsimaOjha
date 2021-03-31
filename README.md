@@ -14,7 +14,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - ✨ I’m currently learning about Digital Marketing.
 - 💬 Ask me about anything, I'll be glad to help.
 
-<p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/tumblr_3c363bcd2f52dd4f49ab812e5e6ed96f_8a9c3807_500.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/coder4.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
@@ -28,7 +28,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 ## Contact Me ☎️
 
 * Mail me on [Gmail](asima.ojha.chaiti.dtk@gmail.com) 
-* Connect me on [LinkedIn](https://www.linkedin.com/in/supali-ojha)
+* Connect me on [LinkedIn](https://www.linkedin.com/in/asima-ojha)
 * Follow me on  [Instagram](https://instagram.com/chaiti_ojha?igshid=1b7pc06ef1s5d)
 
 <br />
@@ -49,7 +49,7 @@ Thanks for visiting!! 💞️✌️
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/supali-ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="supali-ojha" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/asima-ojha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="supali-ojha" height="30" width="30" /></a>
 <a href="https://www.facebook.com/chaiti.ojha.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chaiti.ojha.5" height="30" width="30" /></a>
 <a href="https://instagram.com/chaiti_ojha?igshid=1b7pc06ef1s5d.vg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chaiti_ojha.vg" height="30" width="30" /></a>
 <a href="https://youtube.com/channel/UCoTAZV2w03h6zp1ZW3Iuwbw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="asima ojha.vg" height="30" width="30" /></a>
