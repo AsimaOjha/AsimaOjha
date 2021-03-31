@@ -42,6 +42,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 * Connect me on [LinkedIn](https://www.linkedin.com/in/supali-ojha)
 * Follow me on  [Instagram](https://instagram.com/chaiti_ojha?igshid=1b7pc06ef1s5d)
 
+<br />
 Thanks for visiting!! 💞️✌️
 
 <!--
