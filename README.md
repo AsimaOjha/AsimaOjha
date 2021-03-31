@@ -9,7 +9,7 @@
 AsimaOjha/AsimaOjha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <img src="https://github.com/SupaliOjha/SupaliOjha/blob/main/asset/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://github.com/AsimaOjha/AsimaOjha/blob/main/asset/hi-icegif-2.gif" alt="hello" /> </p>
 <h1 align="center">Hi, I'm Asima Ojha👋</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AsimaOjha.AsimaOjha)
