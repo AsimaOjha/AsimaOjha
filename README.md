@@ -45,6 +45,7 @@ Thanks for visiting!! 💞️✌️
 <a href="https://github.com/AsimaOjha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsimaOjha&show_icons=true&theme=radical&count_private=true" alt="AsimaOjha github stats" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsimaOjha&" alt="AsimaOjha" /></p>
 <br />
 <br />
 
